@@ -1,8 +1,6 @@
 hello world
 
-I am bad developer
 
-just i do for fun
-
-
+I add new some good lines
 "hello"
+
